@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezhuang&label=Profile%20views&color=0e75b6&style=flat" alt="bezhuang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bezhuang" alt="bezhuang" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bezhuang" target="blank"><img src="https://img.shields.io/twitter/follow/bezhuang?logo=twitter&style=for-the-badge" alt="bezhuang" /></a> </p>
-
 - 🌱 I’m currently learning **CSAPP**
 
-- 📝 I regulary write articles on [www.zhuangzhihao.top](www.zhuangzhihao.top)
+- 📝 I regulary write articles on [www.zhuangzhihao.top](https://www.zhuangzhihao.top)
 
 - 📫 How to reach me **bezhuang@foxmail.com**
 
-- 📄 Know about my experiences [www.zhuangzhihao.top/about/resume](www.zhuangzhihao.top/about/resume)
+- 📄 Know about my experiences [www.zhuangzhihao.top/about/resume](https://www.zhuangzhihao.top/about/resume)
 
 - ⚡ Fun fact **I think I am happy.**
 
