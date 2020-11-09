@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **CSAPP**
 
-- 📝 I regulary write articles on [www.zhuangzhihao.top](https://www.zhuangzhihao.top)
+- 📝 I regulary write articles on [my personal blog](https://www.zhuangzhihao.top)
 
-- 📫 How to reach me **bezhuang@foxmail.com**
+- 📫 How to reach me: **bezhuang@foxmail.com**
 
-- 📄 Know about my experiences [www.zhuangzhihao.top/about/resume](https://www.zhuangzhihao.top/about/resume)
+- 📄 Know about my experiences: [www.zhuangzhihao.top/about/resume](https://www.zhuangzhihao.top/about/resume)
 
-- ⚡ Fun fact **I think I am happy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
