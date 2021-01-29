@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [www.zhuangzhihao.top](www.zhuangzhihao.top)
 
-- 📫 How to reach me: **mailto:bezhuang@outlook.com**
+- 📫 How to reach me(e-mail): **bezhuang@outlook.com**
 
 - 📄 Know about my experiences on [www.zhuangzhihao.top/resume](www.zhuangzhihao.top/resume)
 
