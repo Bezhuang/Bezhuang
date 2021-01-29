@@ -7,11 +7,11 @@
 
 - 📝 I regularly write articles on [www.zhuangzhihao.top](www.zhuangzhihao.top)
 
-- 📫 How to reach me **bezhuang@outlook.com**
+- 📫 How to reach me: **mailto:bezhuang@outlook.com**
 
-- 📄 Know about my experiences [www.zhuangzhihao.top/resume](www.zhuangzhihao.top/resume)
+- 📄 Know about my experiences on [www.zhuangzhihao.top/resume](www.zhuangzhihao.top/resume)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact: **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
