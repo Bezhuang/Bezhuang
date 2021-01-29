@@ -26,6 +26,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Bezhuang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Bezhuang" /></a></p><br><br>
 
+<HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezhuang&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bezhuang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bezhuang&show_icons=true&theme=highcontrast&locale=en" alt="bezhuang" /></p>
