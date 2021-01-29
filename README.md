@@ -26,7 +26,7 @@
 
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezhuang&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bezhuang" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezhuang&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="bezhuang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bezhuang&show_icons=true&theme=highcontrast&locale=en" alt="bezhuang" /></p>
 
