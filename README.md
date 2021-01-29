@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezhuang&label=Profile%20views&color=0e75b6&style=plastic" alt="bezhuang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bezhuang" alt="bezhuang" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bezhuang" target="blank"><img src="https://img.shields.io/twitter/follow/bezhuang?logo=twitter&style=for-the-badge" alt="bezhuang" /></a> </p>
 
 - 📝 I regularly write articles on [www.zhuangzhihao.top](www.zhuangzhihao.top)
