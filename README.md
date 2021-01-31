@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/bezhuang" target="blank"><img src="https://img.shields.io/twitter/follow/bezhuang?logo=twitter&style=for-the-badge" alt="bezhuang" /></a> </p>
 
-- 📝 I regularly write articles on [www.zhuangzhihao.top](www.zhuangzhihao.top)
+- 📝 I regularly write articles on [www.zhuangzhihao.top](https://www.zhuangzhihao.top)
 
 - 📫 How to reach me(e-mail): **bezhuang@outlook.com**
 
-- 📄 Know about my experiences on [www.zhuangzhihao.top/resume](www.zhuangzhihao.top/resume)
+- 📄 Know about my experiences on [www.zhuangzhihao.top/resume](https://www.zhuangzhihao.top/resume) (Non-public document)
 
-- ⚡ Fun fact: **I think I am funny.**
+- ⚡ Fun fact: **.أحب قراءة الصحف**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
