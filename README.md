@@ -9,7 +9,7 @@
 
 - 📫 How to reach me(e-mail): **bezhuang@outlook.com**
 
-- 📄 Know about my experiences on [www.zhuangzhihao.top/resume](https://www.zhuangzhihao.top/resume) (Non-public document)
+- 📄 Know about my experiences on [www.zhuangzhihao.top/resume](https://www.zhuangzhihao.top/resume)
 
 - ⚡ Fun fact: **.أحب قراءة الصحف**
 
