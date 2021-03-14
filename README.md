@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bezhuang</h1>
-<h3 align="center">A passionate Student from China</h3>
+<h3 align="center">A Student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezhuang&label=Profile%20views&color=0e75b6&style=plastic" alt="bezhuang" /> </p>
 
