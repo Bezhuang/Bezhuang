@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bezhuang</h1>
-<h3 align="center">A Student from China</h3>
+<h3 align="center">A  Self-Taught Programmer from Shanghai, China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bezhuang&label=Profile%20views&color=0e75b6&style=plastic" alt="bezhuang" /> </p>
-
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bezhuang&label=Profile%20views&color=0e75b6&style=plastic" alt="bezhuang" /> </p>
 
 - 📝 I regularly write articles on [my blog](https://bezhuang.vercel.app)
 
@@ -13,8 +11,6 @@
 
 - ⚡ **أنا أحب البرمجة**
 
-<p align="left"> <a href="https://twitter.com/bezhuang" target="blank"><img src="https://img.shields.io/twitter/follow/bezhuang?logo=twitter&style=for-the-badge" alt="bezhuang" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bezhuang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bezhuang" height="30" width="40" /></a>
@@ -22,6 +18,8 @@
 <a href="https://fb.com/zhihao.zhuang.75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="zhihao.zhuang.75" height="30" width="40" /></a>
 <a href="https://instagram.com/bezhuang312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bezhuang312" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://twitter.com/bezhuang" target="blank"><img src="https://img.shields.io/twitter/follow/bezhuang?logo=twitter&style=for-the-badge" alt="bezhuang" /></a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Bezhuang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Bezhuang" /></a></p><br><br>
