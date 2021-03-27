@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezhuang&label=Profile%20views&color=0e75b6&style=plastic" alt="bezhuang" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bezhuang" target="blank"><img src="https://img.shields.io/twitter/follow/bezhuang?logo=twitter&style=for-the-badge" alt="bezhuang" /></a> </p>
+
 
 - 📝 I regularly write articles on [my blog](https://bezhuang.vercel.app)
 
@@ -12,6 +12,8 @@
 - 📄 Know about my experiences on [linkedin](https://www.linkedin.com/in/zhuangzhihao/)
 
 - ⚡ **أنا أحب البرمجة**
+
+<p align="left"> <a href="https://twitter.com/bezhuang" target="blank"><img src="https://img.shields.io/twitter/follow/bezhuang?logo=twitter&style=for-the-badge" alt="bezhuang" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
