@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bezhuang&label=Profile%20views&color=0e75b6&style=plastic" alt="bezhuang" /> </p>
 
-- 📝 I regularly write articles on [my blog](https://bezhuang.vercel.app)
+- 📝 I regularly write articles on [my blog](https://blog.zhuangzhihao.top)
 
 - 📫 How to reach me(e-mail): <a href="mailto@bezhuang@outlook.com">bezhuang@outlook.com</a>
 
